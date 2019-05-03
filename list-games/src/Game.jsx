@@ -14,6 +14,7 @@ class Game extends Component {
         <div><img src={this.props.newGame.promo} alt="promo"/></div>
         <div>{this.props.newGame.theme}</div>
         <div>{this.props.newGame.date}</div>
+        <button>{this.props.button}Select</button>
         <button>{this.props.button}Supprimer</button>
         </div>
     
