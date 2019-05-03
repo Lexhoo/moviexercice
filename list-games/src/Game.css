@@ -1,0 +1,13 @@
+.jeux {
+    font-family:Arial, Helvetica, sans-serif;
+    color: brown;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding-top:10%;
+    padding-bottom: 10%;
+    background-color: white;
+    
+}
+
